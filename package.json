@@ -1,0 +1,24 @@
+{
+  "name": "node-express-firebase-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baileytalks/node-express-firebase-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baileytalks/node-express-firebase-template/issues"
+  },
+  "homepage": "https://github.com/baileytalks/node-express-firebase-template#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
