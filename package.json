@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/baileytalks/node-express-firebase-template#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "express-md": "^2.0.2",
+    "mime": "^2.5.2"
   }
 }
